@@ -1,0 +1,15 @@
+/* Estilos globais e refinamentos complementares ao Tailwind */
+body {
+    -webkit-tap-highlight-color: transparent;
+}
+
+.category-card {
+    transition: all 0.3s ease-in-out;
+}
+
+.category-card:hover {
+    transform: translateY(-2px);
+    border-color: #000000a7 !important; /* Borda */
+    background: linear-gradient(135deg, #0000004b 0%, #ffffff4c 100%); /* Fundo com um gradiente roxinho bem transparente */
+    box-shadow: 0 6px 20px rgba(132, 0, 255, 0.938); /* Sombra roxa difusa e elegante */
+}
