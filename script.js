@@ -57,6 +57,7 @@ document.addEventListener("DOMContentLoaded", () => {
     const textoSorte = document.getElementById('texto-sorte');
 
     const frasesSorte = [
+  const frasesSorte = [
   // ==========================================
   // 1. REALISTAS, DIRETA AO PONTO & CONSELHOS DURAIS
   // ==========================================
@@ -136,10 +137,10 @@ document.addEventListener("DOMContentLoaded", () => {
   "O destino manda avisar que aquele carrinho de compras merece ser finalizado 😂🛍️",
   "Nenhuma decisão difícil deve ser tomada com fome ou com sono 😴🍕",
   "Alguém lembrou de você hoje com muito carinho e nostalgia 💜",
-  "A pizza/lanche que você quer pedir hoje vai vir perfeita 🍕✨"
+  "A pizza/lanche que você quer pedir hoje vai vir perfeita 🍕✨",
 
   // ==========================================
-  // 1. POESIA & ROMANTISMO CLÁSSICO
+  // 7. POESIA & ROMANTISMO CLÁSSICO
   // ==========================================
   "Que não seja imortal, posto que é chama, mas que seja infinito enquanto dure. — Vinicius de Moraes 💖",
   "Tudo vale a pena se a alma não é pequena. — Fernando Pessoa 🌙",
@@ -153,7 +154,7 @@ document.addEventListener("DOMContentLoaded", () => {
   "Amar não é olhar um para o outro, é olhar juntos na mesma direção. — Antoine de Saint-Exupéry 💫",
 
   // ==========================================
-  // 2. REFLEXÕES SUB LIMES, ALMA & SENTIMENTO
+  // 8. REFLEXÕES SUBLIMES, ALMA & SENTIMENTO
   // ==========================================
   "Tenho em mim todos os sonhos do mundo. — Fernando Pessoa 🌌",
   "Liberdade é pouco. O que eu quero ainda não tem nome. — Clarice Lispector 💜",
@@ -167,7 +168,7 @@ document.addEventListener("DOMContentLoaded", () => {
   "Há momentos em que a poesia é a única forma de respirar. — Cecília Meireles 📜✨",
 
   // ==========================================
-  // 3. AMOR PRÓPRIO, DESTINO & AFETO SUAVE
+  // 9. AMOR PRÓPRIO, DESTINO & AFETO SUAVE
   // ==========================================
   "Aprender a se amar é o início de um romance que dura a vida inteira. — Oscar Wilde 👑💜",
   "Renda-se, como eu me rendi. Recomece, como eu recomecei. — Clarice Lispector 💫",
@@ -179,7 +180,7 @@ document.addEventListener("DOMContentLoaded", () => {
   "E se for para ter medo, que seja de não aproveitar a vida. — Caio Fernando Abreu ✨",
   "A poesia não pertence a quem a escreve, mas a quem precisa dela. — Pablo Neruda 💌",
   "Nossa capacidade de amar é o que nos torna eternos. — Cora Coralina 💜✨"
-    ];
+];
 
     function gerarSorte() {
         const sorteAleatoria = frasesSorte[Math.floor(Math.random() * frasesSorte.length)];
