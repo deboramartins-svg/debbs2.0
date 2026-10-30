@@ -137,6 +137,48 @@ document.addEventListener("DOMContentLoaded", () => {
   "Nenhuma decisão difícil deve ser tomada com fome ou com sono 😴🍕",
   "Alguém lembrou de você hoje com muito carinho e nostalgia 💜",
   "A pizza/lanche que você quer pedir hoje vai vir perfeita 🍕✨"
+
+  // ==========================================
+  // 1. POESIA & ROMANTISMO CLÁSSICO
+  // ==========================================
+  "Que não seja imortal, posto que é chama, mas que seja infinito enquanto dure. — Vinicius de Moraes 💖",
+  "Tudo vale a pena se a alma não é pequena. — Fernando Pessoa 🌙",
+  "Amor é fogo que arde sem se ver; é ferida que dói, e não se sente. — Luís de Camões ✨",
+  "Para sempre é muito tempo. O tempo não pára! A saudade é que faz as coisas pararem no tempo. — Mário Quintana ⏳💜",
+  "Ainda que eu falasse as línguas dos homens e dos anjos, se não tivesse amor, eu nada seria. — 1 Coríntios 13 🕊️",
+  "Dúvida da luz das estrelas, dúvida de que o sol se mova, dúvida até da verdade, mas nunca do meu amor. — William Shakespeare 🌟",
+  "O amor é a única coisa que cresce à medida que se reparte. — Antoine de Saint-Exupéry 🌹",
+  "Te amo não pelo que você é, mas pelo que sou quando estou com você. — Gabriel García Márquez 💜",
+  "Assim como a nuvem precisa do vento para voar, eu preciso de você para amar. — Cartola 🎶✨",
+  "Amar não é olhar um para o outro, é olhar juntos na mesma direção. — Antoine de Saint-Exupéry 💫",
+
+  // ==========================================
+  // 2. REFLEXÕES SUB LIMES, ALMA & SENTIMENTO
+  // ==========================================
+  "Tenho em mim todos os sonhos do mundo. — Fernando Pessoa 🌌",
+  "Liberdade é pouco. O que eu quero ainda não tem nome. — Clarice Lispector 💜",
+  "E no meio de um inverno frio, eu finalmente aprendi que havia dentro de mim um verão invencível. — Albert Camus ☀️✨",
+  "Há flores cobrindo o telhado e móveis e feixes de luz por todos os lados. — Renato Russo 🌿💜",
+  "E guardo em mim a certeza de que a beleza salvará o mundo. — Fiódor Dostoiévski ✨",
+  "Se nada nos salva da morte, que o amor nos salve da vida. — Pablo Neruda 🌹",
+  "O essencial é invisível aos olhos. Só se vê bem com o coração. — O Pequeno Príncipe 🦊✨",
+  "É preciso a chuva para florir. — Guimarães Rosa 🌧️🌸",
+  "Tu te tornas eternamente responsável por aquilo que cativas. — Antoine de Saint-Exupéry 💜",
+  "Há momentos em que a poesia é a única forma de respirar. — Cecília Meireles 📜✨",
+
+  // ==========================================
+  // 3. AMOR PRÓPRIO, DESTINO & AFETO SUAVE
+  // ==========================================
+  "Aprender a se amar é o início de um romance que dura a vida inteira. — Oscar Wilde 👑💜",
+  "Renda-se, como eu me rendi. Recomece, como eu recomecei. — Clarice Lispector 💫",
+  "O amor é uma flor delicada, mas é preciso ter a coragem de ir colhê-la à beira de um precipício. — Stendhal 🌹",
+  "Até a mais longa jornada começa com um único passo. — Lao Tsé 🐾✨",
+  "O poema é uma pedra atirada no poço do tempo. — Mario Quintana 🌙",
+  "Sorria. A alma que sorri transforma o mundo ao seu redor. — Machado de Assis ✨💜",
+  "Quem quase vive nunca renasce. Viva por inteiro. — Guimarães Rosa 🍃",
+  "E se for para ter medo, que seja de não aproveitar a vida. — Caio Fernando Abreu ✨",
+  "A poesia não pertence a quem a escreve, mas a quem precisa dela. — Pablo Neruda 💌",
+  "Nossa capacidade de amar é o que nos torna eternos. — Cora Coralina 💜✨"
     ];
 
     function gerarSorte() {
